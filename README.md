@@ -1,8 +1,9 @@
 # README
-
+modif
 This README would normally document whatever steps are necessary to get the
 application up and running.
-push on master
+
+
 Things you may want to cover:
 
 * Ruby version
